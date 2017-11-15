@@ -6,3 +6,4 @@
 - StyleTransfer.ipynb : 课程展示的一个风格迁移的示例，有较详细的代码注解
 - Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf : 一篇对风格迁移算法原理进行说明的论文
 - images : 盛放jpg图像文件的文件夹
+- by logo
